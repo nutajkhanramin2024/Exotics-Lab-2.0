@@ -1,0 +1,6 @@
+{
+  "name": "Exotics Lab",
+  "description": "Exotics Lab is an independent technology studio building ambitious digital products across software, AI, and human collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
